@@ -10,7 +10,7 @@ public class Principal {
 		String opcion = new String();
 		Scanner teclado = new Scanner(System.in);
 		Empleado[] empleados = new Empleado[20];
-				
+		//testeo el git		
 		// Hago el do while para que cargue empleados hasta que se desee
 		
 		do{
